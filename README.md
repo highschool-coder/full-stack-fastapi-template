@@ -5,7 +5,8 @@
 
 ## Technology Stack and Features
 
-- ⚡ [**FastAPI**](https://fastapi.tiangolo.com)[![contribute](github.png)]([https://github.com/](https://github.com/fastapi/fastapi) for the Python backend API.
+- ⚡ [**FastAPI**](https://fastapi.tiangolo.com) for the Python backend API.
+<a href="github.com/fastapi/fastapi"><img src="github.png" style="width:25px;height:25px;"></a>
     - 🧰 [SQLModel](https://sqlmodel.tiangolo.com) for the Python SQL database interactions (ORM).
     - 🔍 [Pydantic](https://docs.pydantic.dev), used by FastAPI, for the data validation and settings management.
     - 💾 [PostgreSQL](https://www.postgresql.org) as the SQL database.
